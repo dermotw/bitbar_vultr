@@ -15,4 +15,4 @@ cp vultr.5m.php ~/.config/argos/
 chmod +x ~/.config/argos/vultr.5m.php
 ```
 
-Once you've copied the script to the correct location, make sure you edit *the copied* script and change YOURAPITOKEN to whatever your Vultr API token actually is.
+Once you've copied the script to the correct location, make sure you edit **the copied** script and change *YOURAPITOKEN* to whatever your Vultr API token actually is.
